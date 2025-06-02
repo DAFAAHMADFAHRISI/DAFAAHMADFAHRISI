@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Dafa Ahmad Fahrisi, from sampang, Jawa Timur</h4>
+<h4 align="left">Hi 👋! My name is Dafa Ahmad Fahrisi, from sampang</h4>
                                                                     >
 
 ###
