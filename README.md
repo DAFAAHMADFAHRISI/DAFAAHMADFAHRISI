@@ -7,7 +7,7 @@
   <a href="https://github.com/DAFAAHMADFAHRISI" target="_blank">
     <img src="https://img.shields.io/github/followers/DAFAAHMADFAHRISI?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:dafamangku@gmail.com">
     <img src="https://img.shields.io/badge/email-contact-blue?style=flat&logo=gmail" alt="Email" />
   </a>
 </div>
@@ -72,10 +72,10 @@
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/dafaahmadfahrisi/](https://www.linkedin.com/in/dafa-ahmad-fahrisi-8bab04365/)" target="_blank">
+  <a href="https://www.linkedin.com/in/dafa-ahmad-fahrisi-8bab04365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dafa_Ahmad_Fahrisi-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:dafamangku@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dafamangku@gmail.com-red?style=flat&logo=gmail" />
   </a>
 </div>
