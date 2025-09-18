@@ -52,15 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAFAAHMADFAHRISI&show_icons=true&theme=dracula&count_private=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAFAAHMADFAHRISI&layout=compact&theme=dracula" height="150" alt="Top Langs" />
-</div>
-
----
-
 ### ⚡ Recent Activity
 
 <div align="center">
